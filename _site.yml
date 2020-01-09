@@ -1,0 +1,13 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Jay's Demo Website for ICHPS 2020"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Project"
+      href: report.html 
+  right:
+    - text: "Github"
+      icon: fa-github
+      href: https://github.com
